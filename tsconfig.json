@@ -7,6 +7,5 @@
     "removeComments": true,
     "strict": true,
     "target": "es2018"
-  },
-  "files": ["main.ts", "main.test.ts"]
+  }
 }
