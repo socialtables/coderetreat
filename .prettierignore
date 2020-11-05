@@ -1,0 +1,8 @@
+node_modules/
+cdk/
+coverage/
+dist/
+build/
+out/
+.next/
+.vscode/
