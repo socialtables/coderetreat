@@ -1,5 +1,5 @@
-import {HelloWorld} from './HelloWorld';
-import {RemoteLogger} from './RemoteLogger';
+import {HelloWorld} from '../src/HelloWorld';
+import {RemoteLogger} from '../src/RemoteLogger';
 
 // 👇 Test example using a mock/spy without async/await
 describe('Saying Hello World', () => {
